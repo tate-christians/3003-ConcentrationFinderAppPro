@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3003-ConcentrationFinderAppPro", "3003-ConcentrationFinderAppPro.csproj", "{3F17CF41-E702-4B1D-A2E8-01C2B3A40133}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F17CF41-E702-4B1D-A2E8-01C2B3A40133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F17CF41-E702-4B1D-A2E8-01C2B3A40133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F17CF41-E702-4B1D-A2E8-01C2B3A40133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F17CF41-E702-4B1D-A2E8-01C2B3A40133}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B1C268F-A83A-4574-893A-787FC7A15D97}
+	EndGlobalSection
+EndGlobal
